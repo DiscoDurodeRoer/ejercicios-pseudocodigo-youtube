@@ -1,0 +1,3 @@
+10. Obtener el maximo de un arreglo.
+
+11. Obtener el minimo de un arreglo.
