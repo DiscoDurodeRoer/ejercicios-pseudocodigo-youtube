@@ -1,0 +1,5 @@
+﻿6. Pediremos los IDs (numeros) de alumnos de dos clases, algebra y analisis. Queremos 
+mostrar todos los alumnos comunes en las dos asignaturas.
+
+Estos alumnos se guarden en un tercer arreglo y que sea el que se muestre. También 
+indica el numero de alumnos que se repiten.

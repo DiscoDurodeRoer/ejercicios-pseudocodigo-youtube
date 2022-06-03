@@ -1,0 +1,5 @@
+1. Crear un arreglo de 10 posiciones y rellenarlo entre 0 y 9
+
+2. Del arreglo anterior (puedes copiar el código), obtener la suma de todos sus elementos.
+
+3. Del arreglo del ejercicio 1 (puedes copiar el código), obtener la media de todos sus elementos.

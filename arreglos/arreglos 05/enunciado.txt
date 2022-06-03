@@ -1,0 +1,13 @@
+﻿8. Suponga un array con N números enteros generados aleatoriamente y mostrados en pantalla, 
+   N debe ser un número impar, mostrar en pantalla el valor que ocupa el centro del array.
+
+9. Suponga un array con N notas de 0 a 20, calcule el promedio de aprobados y el promedio de los 
+   desaprobados e indique la cantidad de aprobados y desaprobados.
+
+10. Suponga un array que contiene N notas de 0 a 20 generados aleatoriamente y mostradas en pantalla, 
+    de acuerdo a la nota contenida, indique cuántos estudiantes son:
+   
+   - Deficientes 0-5
+   - Regulares 6-10
+   - Buenos 11-15
+   - Excelentes 16-20﻿

@@ -1,0 +1,8 @@
+4. Pedir valores numericos en dos arrays distintos y almacenar el resultado de los valores de cada posicion (posicion 0 del arreglo 1 + posicion 0 del arreglo 2) y mostrar el contenido de los 3 arreglos de esta forma.
+
+valor pos 0 arreglo 1 + valor pos 0 arreglo 2 = valor pos 0 arreglo 3
+valor pos 1 arreglo 1 + valor pos 1 arreglo 2 = valor pos 1 arreglo 3
+...
+
+
+5. Buscar un elemento dentro de un arreglo que nosotros le pedimos por teclado. Indicar las posicion donde se encuentra. Si hay más de uno, indicar igualmente la posicion.

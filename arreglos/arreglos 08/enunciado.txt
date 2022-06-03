@@ -1,0 +1,6 @@
+Crea un arreglo de enteros de 5 posiciones, lo llenas con números al azar:
+ - Muestre TODO SU CONTENIDO.
+ - Indica cuantos multiplos de 7 hay
+ - Muestre LOS IMPARES
+ - Muestre la SUMA DE LOS MÚLTIPLOS DE 8
+ - Muestre EL PROMEDIO DE LOS PARES

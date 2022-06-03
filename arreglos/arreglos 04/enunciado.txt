@@ -1,0 +1,5 @@
+﻿
+7. Pedir por teclado el tamaño de un arreglo de numeros y pedir los valores 
+númericos con los que se rellena. Los valores no se pueden repetir.
+
+Mostrar el arreglo con los valores al final.
