@@ -1,0 +1,5 @@
+4. Pedir dos valores numericos y mostrar cual es el mayor o si son iguales.
+
+5. Pedir el valor de un producto y mostrar cuanto valdria si se rebaja un 15% su precio.
+
+6. Pedir un valor numerico e indicar si es par o no.

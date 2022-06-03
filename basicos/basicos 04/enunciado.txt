@@ -1,0 +1,4 @@
+10. Calcular el cuadrado de los N primeros numeros. Mostrar por pantalla.
+
+11. Calcular la nota de n alumnos, introduciendo su nota teorica (60%) y su nota
+practica (40%). Mostrarlo por pantalla.

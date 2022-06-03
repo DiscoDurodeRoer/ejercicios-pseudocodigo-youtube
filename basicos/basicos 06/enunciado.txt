@@ -1,0 +1,2 @@
+13. Indica si una frase es un panagrama, un panagrama es si una frase contiene todas las letras de un alfabeto.
+Por ejemplo: El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja

@@ -1,0 +1,3 @@
+12. Realiza un reloj digital que nunca pare. 
+
+Tambien debes hacer que espere un segundo real para darle mas realismo.

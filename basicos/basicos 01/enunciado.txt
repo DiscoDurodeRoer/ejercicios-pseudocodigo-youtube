@@ -1,0 +1,5 @@
+1. Escribir "Hola mundo" por pantalla
+
+2. Pedir el valor de una variable y mostrarla por pantalla.
+
+3. Pedir dos valores numericos y ver la suma, resta, multiplicacion y division

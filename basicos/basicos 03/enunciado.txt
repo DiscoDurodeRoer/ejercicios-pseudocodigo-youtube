@@ -1,0 +1,8 @@
+7. Mostrar del 1 al 100 con la estructura repetitiva MIENTRAS.
+
+8. Mostrar del 1 al 100 con la estructura repetitiva PARA.
+
+9. Muestra los pares del 1 al 100.
+
+
+
