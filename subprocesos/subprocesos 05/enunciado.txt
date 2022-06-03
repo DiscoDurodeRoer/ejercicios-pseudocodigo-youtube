@@ -1,0 +1,14 @@
+﻿9. Vamos a realizar el pequeño juego de adivinar un número. Lo tendremos puesto en 
+una variable el valor que nosotros queramos.
+
+El numero sera entre 1 y 100.
+
+Tendremos que hacer los siguientes subprocesos:
+
+  - leerNumero(): Pide un numero y hasta que el usuario no escribe un valor entre 1 y 100, 
+  vuelve a pedir el valor.
+  - comprobarValor(numeroUsuario, numeroCorrecto): comprueba si el numero es correcto, este 
+  devuelve un numero que puede ser:
+  	0: los dos numeros son iguales
+  	1: el numeroUsuario es mayor que el numeroCorrecto
+  	-1: el numeroUsuario es menor que el numeroCorrecto

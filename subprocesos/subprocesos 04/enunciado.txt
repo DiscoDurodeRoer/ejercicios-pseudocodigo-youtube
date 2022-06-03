@@ -1,0 +1,3 @@
+7.  Crear un subproceso que devuelva la suma de un arreglo pasado por parametro.
+
+8.  Crear un subproceso que devuelva la media de un arreglo pasado por parametro.

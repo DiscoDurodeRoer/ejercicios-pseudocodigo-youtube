@@ -1,0 +1,3 @@
+3. Crear un subproceso que devuelva la longitud de una cadena.
+
+4. Crear un subproceso que devuelva el factorial de un numero.

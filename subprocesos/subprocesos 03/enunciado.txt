@@ -1,0 +1,4 @@
+﻿5. Crear un subproceso que muestre un arreglo pasado por parametro.
+
+6. Crear un subproceso rellene un array con numeros aleatorios, pasandole un arreglo y los numeros entre los que estarán
+los valores.
