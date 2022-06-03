@@ -1,0 +1,15 @@
+﻿1. Construya un algoritmo que al recibir  los montos de ventas mensuales de cinco 
+departamentos de una fábrica, proporciona la siguiente información:
+
+    -realizar un subproceso para saber las ventas mensuales de la fábrica.
+
+    -realizar un subproceso para el monto anual.
+
+    -realizar un subproceso para obtener el monto del departamento que tuvo 
+     la mayor venta en el mes de julio.
+
+    -realizar un subproceso que se le pase como parámetro el número del departamento
+     y obtenga la mayor venta.
+
+    -realizar un menú con el comando según para mandar a llamar a los subprocesos 
+     anteriores.

@@ -1,0 +1,3 @@
+3. Teniendo 2 jugadores, haz que jueguen al piedra, papel y tijera. 
+
+El primero que llegue a 3 puntos gana.

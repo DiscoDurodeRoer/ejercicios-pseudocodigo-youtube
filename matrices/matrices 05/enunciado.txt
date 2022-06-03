@@ -1,0 +1,3 @@
+5. Que trata de un autobús en el cual se deben de subir 12 personas y cada persona debe ocupar un asiento, pero el asiento lo debe de ocupará aleatoriamente y cuál que fila qué desea ir, al final debe de bajar a las personas 1 en 1 y cobrarle €15.
+
+Utilizando una matriz de (2,12) en modo estricto

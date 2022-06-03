@@ -1,0 +1,12 @@
+﻿
+2. Crear una matriz de 5x7, donde 5 representan la semana de un mes y 7 los días de la semana
+
+La estructura registrara la temperatura diaria de una cabina de pago, estos oscilan entre los 7 y 38 grados.
+deberá llenar la matriz de forma aleatoria para el mes de mayo donde el primer dia inicia en lunes y el 
+ultimo (31) se ubica en el miercoles.
+
+Se nos pide hacer lo siguiente:
+
+  - Obtener la temperatura mas alta y baja de la semana y que dia se produjo (lunes,martes, etc etc).
+  - Promedio temperatura de la semana.
+  - Temperatura mas alta del mes y su dia

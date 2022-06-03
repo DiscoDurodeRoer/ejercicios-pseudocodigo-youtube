@@ -1,0 +1,1 @@
+4. Crea un subproceso que sume la diagonal principal de una matriz de numeros, otro para la diagonal inversa y otro que sume ambas
