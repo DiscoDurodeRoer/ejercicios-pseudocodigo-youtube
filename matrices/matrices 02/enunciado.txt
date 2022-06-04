@@ -1,4 +1,3 @@
-﻿
 2. Crear una matriz de 5x7, donde 5 representan la semana de un mes y 7 los días de la semana
 
 La estructura registrara la temperatura diaria de una cabina de pago, estos oscilan entre los 7 y 38 grados.
